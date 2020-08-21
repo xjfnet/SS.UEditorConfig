@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<package>
+  <metadata>
+    <id>SS.UEditorConfig</id>
+    <version>1.0.0</version>
+    <title>UEditorConfig插件</title>
+    <authors>xjf</authors>
+    <owners>xjf</owners>
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+    <description>修改 UEditor 服务器端配置</description>
+    <copyright>Copyright ©2018 xjf</copyright>
+    <tags>SiteServer CMS UEditorConfig Plugin</tags>
+  </metadata>
+</package>
